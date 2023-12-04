@@ -1,0 +1,72 @@
+Tbar Row
+Pull Up
+Supinated Grip Pullup
+Barbell Deadlift
+Dumbbell Deadlift
+Dumbbell Bent Over Row
+Lat Pulldown
+Barbell Row
+Dumbbell Pullover
+Reverse Grip Pulldwon
+Seated Cable Row
+Straight Arm Lat Pulldown
+Bench Press
+Dumbbell Bench Press
+Push Up
+Decline Bench Press
+Incline Dumbbell Fly
+Incline Dumbbell Bench Press
+Peck Deck Fly
+Chest Press Machine
+Dumbbell Fly
+Incline Bench Press
+Decline Dumbell Bench Press
+Cable Crossover
+Lying Leg Curl
+Wall Sit
+Medicine Ball Squat
+Donkey Kicks
+Seated Hip Abduction Machine
+Bodyweight Glute Bridge
+Front Squat
+Barbell Stiff Leg Deadlift
+Bodyweight Bulgarian Split Squat
+Barbell Hip Thrust
+Jump Squat
+Dumbbell Stiff Leg Deadlift
+Lunge
+Seated Leg Curl
+Leg Press
+Squat
+Leg Extension
+Bodyweight Squat
+Bent Over Lateral Raise
+Cable One Arm Raise
+Cable Rear Delt Fly
+Dumbbell Shoulder Press
+Standing Barbell Shoulder Press
+Barbell Upright Row
+Neutral Grip Front Raise
+Side Lateral Raise
+Front Raise
+Rope Cable Curl
+Triceps Pressdown
+Barbell Curl
+Incline Dumbbell Curl
+Cable Rope Pushdown
+Preacher Curl
+Ez Barbell Curl
+Lying Triceps Extension
+Single Arm Cable Curl
+Hammer Curl
+Dumbbell Kickback
+Dumbbell Concentration Curl
+Overhead Tricep Extension
+Bent Knee Reverse Crunch
+Oblique Crunch
+Crunch Machine
+Rope Ab Pulldown
+Plank Get Ups
+Crunch
+Hanging Leg Raise
+Plank

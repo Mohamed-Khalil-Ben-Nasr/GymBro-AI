@@ -1,0 +1,3 @@
+api-key.txt
+.pytest_cache
+backend/utils/__pycache__

@@ -1,0 +1,60 @@
+/* YouContainer.css */
+
+/* Style for the container holding your components */
+.container {
+    max-width: 800px; /* Adjust this to your preferred maximum width */
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style for individual components */
+  .you-container {
+    background-color: #f5f5f5;
+    padding: 20px;
+    margin: 10px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+  }
+  
+  /* Style for icons */
+  .ion-icon {
+    font-size: 24px;
+    margin-right: 8px; /* Adjust the value for desired spacing */
+  }
+  
+  /* Style for labels */
+  .ion-label {
+    font-weight: bold;
+  }
+  
+  /* Style for buttons */
+  .ion-button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  /* Hover effect for buttons */
+  .ion-button:hover {
+    background-color: #0056b3;
+  }
+  
+
+  ion-modal ion-button {
+    display: block;
+    margin: 16px auto;
+  }
+  
+  /* Style for the cancel button in modals */
+  ion-modal ion-button.cancel-button {
+    background-color: #ccc;
+    color: #000;
+  }
+  
+  ion-modal ion-button.cancel-button:hover {
+    background-color: #999;
+  }
+  

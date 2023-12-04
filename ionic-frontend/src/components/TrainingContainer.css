@@ -1,0 +1,105 @@
+/* TrainingContainer.css */
+
+.IonCard {
+  background-color: white;
+}
+.IonCardTitle{
+  color:red;
+}
+
+.container {
+  position: relative; /* Make the container a positioned element */
+}
+
+/* Increase the z-index value to place the container on top */
+.container .calendar-icon {
+  z-index: 2;
+}
+
+/* Add styles to customize the icon and item */
+.calendar-icon {
+  color: red; /* Change color to something visible */
+  font-size: 24px; /* Adjust the size as needed */
+  background-color: white;
+}
+/* TrainingContainer.css */
+
+/* Add space to the right of the IonIcon */
+ion-icon {
+  margin-right: 8px; /* Adjust the value as needed for the desired space */
+}
+
+/* Optional global CSS to reset some default styles and provide a clean slate */
+body, html {
+margin: 0;
+padding: 0;
+font-family: Arial, sans-serif;
+}
+
+/* Style for the container holding your components */
+.container {
+max-width: 800px; /* Adjust this to your preferred maximum width */
+margin: 0 auto;
+padding: 20px;
+}
+
+/* Style for individual components */
+.training-container {
+background-color: #f5f5f5;
+padding: 20px;
+margin: 10px 0;
+border: 1px solid #ddd;
+border-radius: 5px;
+}
+
+/* Style for buttons */
+.ion-button {
+background-color: #007bff;
+color: #fff;
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+cursor: pointer;
+}
+
+/* Adjust other styles as needed based on your design preferences */
+
+/* Center elements horizontally */
+.text-center {
+text-align: center;
+}
+
+/* Add spacing between elements */
+.mb-20 {
+margin-bottom: 20px;
+}
+
+/* Media query for responsive design (adjust breakpoints as needed) */
+@media screen and (max-width: 768px) {
+.container {
+  padding: 10px;
+}
+.training-container {
+  padding: 10px;
+}
+}
+
+
+/* Style for the button text to make it look like a label */
+.duration-button {
+font-size: 16px;
+color: #333; /* Choose your desired color */
+text-align: left;
+background-color: transparent; /* Optional: Remove button background color */
+padding: 0; /* Optional: Remove button padding */
+border: none; /* Optional: Remove button border */
+flex: 0.2
+}
+
+.training-container{
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+max-width: 60%;
+}

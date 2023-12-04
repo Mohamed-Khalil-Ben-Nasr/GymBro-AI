@@ -1,0 +1,17 @@
+/* Example CSS for creating curved buttons */
+.button {
+    border-radius: 10px; /* Adjust the value to control the amount of curvature */
+    background-color: #007AFF; /* Button background color */
+    color: #fff; /* Button text color */ 
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    border: none; /* Remove the button border, if needed */
+    cursor: pointer; /* Add a pointer cursor for interactivity */
+  }
+  
+  /* On hover, change the background color to give a visual effect */
+  .button:hover {
+    background-color: #0055CC; /* Adjust the color as desired */
+  }
+
+  

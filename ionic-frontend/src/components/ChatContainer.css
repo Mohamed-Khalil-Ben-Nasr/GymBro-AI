@@ -1,0 +1,85 @@
+.chat-container{
+    flex-direction: column;
+    display: flex !important;
+    height: 100%;
+}
+.chat-history{
+    flex: 1;
+    overflow-y: scroll;
+    padding: 10px;
+}
+.chat-input{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+/* Chat Container Styles */
+.chat-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    background-color: #f4f4f4; /* Set your preferred background color */
+    padding: 10px;
+  }
+  
+  /* Chat History Styles */
+  .chat-history {
+    flex: 1;
+    overflow-y: auto; /* Add vertical scrollbar if needed */
+    background-color: #fff; /* Set background color for chat history */
+    border-radius: 10px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: transparent;
+  }
+  
+  /* Chat Input Styles */
+  .chat-input {
+    display: flex;
+    align-items: center;
+    background-color: lightblue; /* Set background color for chat input */
+    border-radius: 10px;
+    padding: 10px;
+  }
+  
+  /* Ionic Input Styles */
+  ion-input {
+    flex: 1;
+    border: none;
+    background-color: transparent;
+  }
+  
+  /* Ionic Button Styles */
+  ion-button {
+    background-color: #007AFF; /* Button background color */
+    color: #fff; /* Button text color */
+    border: none;
+    border-radius: 10px;
+    padding: 10px 20px; /* Adjust padding as needed */
+    font-size: 16px; /* Adjust font size as needed */
+    cursor: pointer;
+    transition: background-color 0.3s; /* Add a smooth hover effect */
+  }
+  
+  ion-button:hover {
+    background-color: #0055CC; /* Adjust the color on hover */
+  }
+  
+  /* Styling for TrainerEntry and UserEntry components */
+  ion-card {
+    border-radius: 10px;
+    margin: 10px 0;
+  }
+  
+  /* Additional styling for text colors */
+  .text-white {
+    color:white; /* Set text color to white */
+  }
+  
+  .text-black {
+    color: #000; /* Set text color to black */
+  }
+  
